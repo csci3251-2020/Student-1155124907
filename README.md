@@ -27,4 +27,4 @@
 - Discord (Lie and deception#0277)
 - Whatsapp
 - Email: markma08181212@gmail.com
->I haven't done what should have been done.
+>~~I haven't done what should have been done.~~
