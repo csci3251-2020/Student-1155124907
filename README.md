@@ -11,9 +11,9 @@
 |ENGG2430 |Probability and Statistics for Engineers|
 	
 # Progamming Language
-1.C
-2.C++
-3.Java
+1. C
+2. C++
+3. Java
 
 # Task(s) to do
 - [ ] Work
