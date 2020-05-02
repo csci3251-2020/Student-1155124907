@@ -16,10 +16,10 @@
 3.Java
 
 # Task(s) to do
--[] Work
--[] More work
--[] Even more work
--[] Still not yet finished
+- [ ] Work
+- [ ] More work
+- [ ] Even more work
+- [ ] Still not yet finished
 
 ## Contact with me
 - Discord (Lie and deception#0277)
