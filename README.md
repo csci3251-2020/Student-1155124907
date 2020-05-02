@@ -1,7 +1,9 @@
+![PepeDance](https://imgur.com/a/bfgLQKg)
+
 # **Hello there!**
 	I am Ma Yuk Ho, Mark. 
 	Currently I am studying in The Chinese University of Hong Kong.
-	Year 2 Computer Science major student. Aye!!!
+	Year 2 Computer Science major student. **Aye**!!!
 	
 # Major related course(s) taken this semster
 |Course ID | Course Name |
