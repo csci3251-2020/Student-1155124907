@@ -28,3 +28,5 @@ Year 2 Computer Science major student. **Aye**!!!
 - Whatsapp
 - Email: markma08181212@gmail.com
 >~~I haven't done what should have been done.~~
+
+![commands](https://github.com/csci3251-2020/Student-1155124907/blob/master/commands.png)
